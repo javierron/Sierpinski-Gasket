@@ -44,11 +44,11 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glm.0.9.7.1\build\native\include;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glew.1.9.0.1\build\native\include;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\freeglut.2.8.1.15\build\native\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\glm.0.9.7.1\build\native\include;C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\glew.1.9.0.1\build\native\include;C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\freeglut.2.8.1.15\build\native\include;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glm.0.9.7.1\build\native\include;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glew.1.9.0.1\build\native\include;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\freeglut.2.8.1.15\build\native\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glew.redist.1.9.0.1\build\native\bin\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glew.1.9.0.1\build\native\lib\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\freeglut.redist.2.8.1.15\build\native\bin\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\freeglut.2.8.1.15\build\native\lib\v110\Win32\Debug\dynamic;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\glew.redist.1.9.0.1\build\native\bin\v110\Win32\Debug\dynamic;C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\glew.1.9.0.1\build\native\lib\v110\Win32\Debug\dynamic;C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\freeglut.redist.2.8.1.15\build\native\bin\v110\Win32\Debug\dynamic;C:\Users\Javier Ron\Source\Repos\Sierpinski-Gasket\packages\freeglut.2.8.1.15\build\native\lib\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glew.redist.1.9.0.1\build\native\bin\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\glew.1.9.0.1\build\native\lib\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\freeglut.redist.2.8.1.15\build\native\bin\v110\Win32\Debug\dynamic;C:\Users\Javier\Documents\Visual Studio 2013\Projects\Sierpinski Gasket\packages\freeglut.2.8.1.15\build\native\lib\v110\Win32\Debug\dynamic;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glew.lib;freeglut.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -67,7 +67,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <None Include="Shaders\fshader.glsl" />
     <None Include="Shaders\vshader.glsl" />
   </ItemGroup>

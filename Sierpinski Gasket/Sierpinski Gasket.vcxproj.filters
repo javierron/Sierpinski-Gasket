@@ -15,7 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <None Include="Shaders\fshader.glsl" />
     <None Include="Shaders\vshader.glsl" />
   </ItemGroup>
