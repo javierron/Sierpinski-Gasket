@@ -66,6 +66,6 @@ GLuint InitShader(const char* vShaderFile, const char* fShaderFile) {
 	}
 
 	// use program object 
-	glUseProgram(program);
+	//glUseProgram(program);
 	return program;
 }

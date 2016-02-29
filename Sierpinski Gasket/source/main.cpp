@@ -11,7 +11,7 @@
 using glm::vec2;
 typedef vec2 point2;
 
-const int number_of_points = 50000;
+const int number_of_points = 100000;
 
 
 void init(){
